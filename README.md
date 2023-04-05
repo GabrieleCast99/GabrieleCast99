@@ -1,7 +1,6 @@
 ### Hello World! 👋
 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrieleCast99&show_icons=true&hide_border=true" />
+<img align='right'   width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrieleCast99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 
 
@@ -10,6 +9,8 @@
 - 👯 I’m looking to collaborate on E-commerce Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you!
 - ⚡ Quote: There is always time. You just have to find it.
+- - 📝 See my [Curriculum Vitae](https://drive.google.com) to get more info.
+
 
 
  **Java**: 
