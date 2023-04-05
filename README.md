@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently learning in Develhope, i am junior developer back end!
-- 👯 I’m looking to collaborate on E-commerce Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 I’m working on E-commerce Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you!
 - ⚡ Quote: There is always time. You just have to find it.
 - 📝 See my [Curriculum Vitae](https://drive.google.com) to get more info.
