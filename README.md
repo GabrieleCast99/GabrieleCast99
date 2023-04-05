@@ -4,13 +4,17 @@
 
 
 
+<h3> 👨🏻•💻 About Me </h3>
+
 
 - 🔭 I’m currently working and learning in Develhope
 - 👯 I’m looking to collaborate on E-commerce Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you!
 - ⚡ Quote: There is always time. You just have to find it.
-- - 📝 See my [Curriculum Vitae](https://drive.google.com) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com) to get more info.
 
+
+<h3>🛠 Tech Stack</h3>
 
 
  **Java**: 
@@ -25,7 +29,7 @@
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
   
   
-  ### Tools
+ <h3>🛠 My tools </h3>
 
 **Software Development:**
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
