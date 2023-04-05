@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on E-commerce Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you!
 - ⚡ Quote: There is always time. You just have to find it.
-- 📫 How to reach me:
+
 
  **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
@@ -35,7 +35,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
-### 📫 Get In Touch
+### 📫 How to reach me:
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "gabriele-castiglione-531161246")](https://www.linkedin.com/in/gabriele-castiglione-531161246/)-->
 <a href="https://www.linkedin.com/in/gabriele-castiglione-531161246/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
