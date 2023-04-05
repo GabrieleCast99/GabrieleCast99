@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrieleCast99&show_icons=true&hide_border=true" />
+
 
 
 
