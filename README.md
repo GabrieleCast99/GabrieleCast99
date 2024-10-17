@@ -11,7 +11,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🔭 I’m currently learning in Develhope, i am junior developer back end!
+- 🔭 I’m currently learning, i am junior developer!
 - 👯 I’m working on E-commerce Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you!
 - ⚡ Quote: There is always time. You just have to find it.
